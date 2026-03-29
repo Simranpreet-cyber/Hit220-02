@@ -10,7 +10,7 @@ The purpose of site personalisation in this project is to make the website feel 
 The likely users are first year or beginner university students who need simple study support. These users may be balancing classes, assessments, and part time work, and they may prefer a clear and uncomplicated interface.
 
 ## User Persona
-Aisha is a 20 year old first year university student. She works part time and sometimes struggles to keep up with deadlines. She wants a simple digital space that helps her feel more organised and less overwhelmed. She prefers straightforward tools and clear instructions rather than complex systems.
+Simranpreet is a 20 year old second year university student. She works part time and sometimes struggles to keep up with deadlines. She wants a simple digital space that helps her feel more organised and less overwhelmed. She prefers straightforward tools and clear instructions rather than complex systems.
 
 ## Assumption and Hypothesis
 One assumption in this project is that students are more likely to engage with a support website when it is simple, visually clear, and directly useful. The hypothesis is that if students are given quick study guidance and a clean interface with a small amount of interaction, they will feel more confident and engage more consistently with study planning.
